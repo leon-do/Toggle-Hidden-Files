@@ -1,4 +1,4 @@
-<h1> Show/Hide hidden files easily </h1>
+<h1> Show/Hide hidden files easily (on Mac) </h1>
 
 Instructions:
 
